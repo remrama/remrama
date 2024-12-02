@@ -1,4 +1,8 @@
-## Hi there 👋
+## Salut
+
+I'm currently working on the cognitive neuroscience of sleep in the [Dream Engineering Lab](https://www.dreamengineeringlab.com/).
+
+Most of my repositories correspond to a specific article we published, and others are unfinished analysis tools. Some of the latter will get finished, I suspect [10%](https://ritholtz.com/wp-content/uploads/2013/06/sturgeons-law.png).
 
 <!--
 **remrama/remrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
